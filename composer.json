@@ -1,0 +1,17 @@
+{
+    "authors": [
+        {
+            "email": "james@jppreusdev.com",
+            "name": "James Preus Jr <@JPPreusDev>",
+            "role": "Developer"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "SubStacks\\MongoSession\\": ""
+        }
+    },
+    "description": "A PHP session handler wrapped around MongoDB. https://www.coreyballou.com",
+    "license": "MIT",
+    "name": "substacks/mongosession"
+}
